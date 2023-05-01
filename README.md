@@ -39,5 +39,6 @@ Learn how to use HTML5 tags and CSS3 properties, as well as identify core compon
 Visualiza mi proyecto terminado aquí / View my finished project here [Clonación de Google / Google clone](https://minervacastillo.github.io/Google-clone/)
 
 
+![clone google](https://user-images.githubusercontent.com/131712009/235499008-231f7869-2d9d-4056-a966-815fd9761d77.png)
 
 
