@@ -2,10 +2,11 @@
 ###### ✨creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro / created with HTML5 and CSS3 in the Tecnolochicas Pro bootcamp✨
 
 ## ÍNDICE / INDEX
-* [ Introducción / Introduction]()
-* [ ¿Qué se hizo? / What was done?]()
-* [ Objetivo del proyecto / Proyect objective]()
-* [ Link a la demostración / Link to the demo ]()
+* [ Introducción / Introduction](https://github.com/MinervaCastillo/Google-clone/blob/main/README.md#introducci%C3%B3n--intoducction)
+* [ ¿Qué se hizo? / What was done?](https://github.com/MinervaCastillo/Google-clone/blob/main/README.md#qu%C3%A9-se-hizo--what-was-done)
+* [ Objetivo del proyecto / Proyect objective](https://github.com/MinervaCastillo/Google-clone/blob/main/README.md#objetivo-del-proyecto--proyect-objective)
+* [ Link a la demostración / Link to the demo ](https://github.com/MinervaCastillo/Google-clone/blob/main/README.md#link-a-la-demostraci%C3%B3n--link-to-the-demo
+)
 
 ***
 
